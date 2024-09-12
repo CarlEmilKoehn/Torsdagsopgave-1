@@ -1,2 +1,2 @@
-# Torsdagsopgave-2
+# Torsdagsopgave-1
 Afleveres til 12/09/2024
